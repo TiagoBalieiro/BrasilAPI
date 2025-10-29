@@ -116,3 +116,5 @@ dist
 
 ### asdf ###
 /.tool-versions
+
+venv
